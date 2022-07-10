@@ -1,0 +1,248 @@
+body{
+    background-color: #FAFAFA;
+    /*margin: 40px 70px 20px 70px; */
+    font-family: 'Space Grotesk';
+  }
+  header{
+    padding: 0px 100px 0px 100px;
+    border-bottom:  ridge 1px rgb(71, 68, 68);
+     
+    overflow: auto;
+  
+  }
+  
+  main{
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  
+  #home{
+    color: #2549D3;
+  }
+  .topnav{
+    display:flex;
+    flex-direction: row;
+    font-size: 40px;
+    margin-bottom: 20px;
+    text-align: start;
+    justify-content: space-between;
+    padding-bottom: 1%;
+    margin-right: initial;
+    
+  }
+  .two{
+    display: block;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-top: 10px;
+    margin-bottom: 30px;
+  
+  }
+  /*Primary Colors: #2549D3, #0F298B, #FAFAFA
+  Font Styles: Space Grotesk, Oleo Script*/
+  .vallie{
+    font-family: "Courgette", cursive;
+    font-weight: 600;
+    margin-right: 10%;
+    font-family: 'Oreo Script';
+    
+    
+  
+    
+    /*font-size: 200%; */
+    
+  }
+  .home{
+    color:#2549D3 ;
+    margin-right: 40px;
+    
+    /*font-size: 150%;*/
+  }
+  .rent{
+    
+    margin-right: 40px;
+    color: black;
+    
+  }
+   #land:hover{
+    background-color: aqua;
+    padding: 10%;
+  } 
+  a{
+   
+    text-decoration: solid;
+    color: black;
+  }
+  .home a{
+    color: #0F298B;
+  }
+  .land a{
+    margin-right: 40px;
+    
+  }
+  .get a{
+    
+    background-color: #2549D3;
+    color: whitesmoke;
+    margin-right: 5%;
+    margin-left: 2%;
+    font-size-adjust: 20px;
+  }
+  .agent{
+    margin-right: 40px;
+   
+  }
+  .contact{
+    margin-right: 40px;
+   
+  }
+  .get{
+    margin-left: 10%;
+  }
+  
+  #creating{
+    font-size: 60px;
+    font-weight: 400;
+    
+  }
+   .two h2{
+    color: #2549D3;
+    font-size: 100px;
+    text-align: left;
+    
+  }
+  
+  .location{
+    display: block;
+    clear: right;
+  }
+  main{
+    margin-top: 0%;
+  }
+  #img1{
+    float: right;
+    margin-top: 82px;
+    
+  }
+  .location{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+  }
+  #learn{
+    margin-top: 100px;
+  }
+  h2{
+    color:#0F298B ;
+  }
+  .middle{
+    text-align: center;
+  }
+  .icons{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-between;
+    margin-bottom: 4%;
+    padding: auto;
+  }
+  #h2{
+    margin-top: 20px;
+    font-weight: 800;
+  }
+  .find{
+    padding: 1%;
+    background-color: white;
+    margin: 0px 40px 0px 40px;
+  
+  }
+  .official{
+    padding: 1%;
+    background-color: white;
+    margin: 0px 40px 0px 40px;
+  
+  } 
+  .payments{
+    padding: 1%;
+    background-color: white;
+    margin: 0px 40px 0px 40px;
+  
+  }
+  .img2{
+    float: left;
+    display: flex;
+    flex-direction: row;
+    clear:right;
+    margin-bottom: 50px;
+  }
+  
+  .featured{
+    clear: left;
+    margin-top: 40px;
+    text-align: center;
+  }
+  #duplex{
+    display: flex;
+    flex-direction:row;
+    width:100%;
+    /*overflow:scroll; */
+    justify-content: space-evenly;
+    
+  }
+  
+  .house{
+    width: 27%;
+    margin-left: 1%;
+    margin-right: 1%;
+  
+  }
+  
+  span{
+    color: #2549D3;
+    text-align: right;
+  }
+  
+  .clients{
+    display: flex;
+    flex-direction: row;
+  }
+  .esteemed{
+    text-align: center;
+  }
+  #more{
+    text-align: end;
+    padding: 3px;
+    background-color: #0F298B;
+    margin-left: 95%;
+    color: azure;
+  }
+  a:hover{
+    background-color: red;
+    padding: 2%;
+  }
+  footer{
+    background-color: #0F298B;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    justify-content: space-around;
+    color: whitesmoke;
+  }
+  
+  #buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  
+  button{
+    height: 120px;
+    width: 170px;
+    color: white;
+    border-radius: 50px;
+    background-color: #2549D3;
+    font-weight: 800;
+    font-size: 150%;
+  }
