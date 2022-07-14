@@ -21,3 +21,55 @@ img1{
     margin-top: 82px;
     
   }
+  button{
+    height: 120px;
+    width: 170px;
+    color: white;
+    border-radius: 50px;
+    background-color: #2549D3;
+    font-weight: 800;
+    font-size: 150%;
+  }
+  #buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  #creating{
+    font-size: 60px;
+    font-weight: 400;
+  }
+  .location{
+    display: block;
+    clear: right;
+  }
+  #location{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+  }
+  main{
+    margin-top: 0%;
+  }
+property{
+  height: 120px;
+    width: 170px;
+    color: white;
+    border-radius: 50px;
+    background-color: #2549D3;
+    font-weight: 800;
+    font-size: 150%;
+}
+.middle{
+  text-align: center;
+}
+#h2{
+  margin-top: 20px;
+  font-weight: 800;
+  text-align: left;
+}
+h2{
+  color:#0F298B ;
+}
